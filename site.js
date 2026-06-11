@@ -46,7 +46,7 @@ function renderPage(data) {
     ${renderCaseStudies(caseStudyIntro, data.caseStudies)}
     ${renderGallery(galleryIntro, data.gallery)}
     ${renderSkills(data.skills)}
-    <footer class="footer">Generated from a private evidence system. Sensitive details are omitted or redacted for public sharing.</footer>
+    <footer class="footer">Selected experience, case studies, and proof points.</footer>
   `;
 }
 
@@ -72,7 +72,7 @@ function renderRoles(roles) {
         <div>
           <div class="section-kicker">Experience</div>
           <h2>Career history</h2>
-          <p>Selected roles exported from the private career database with public and redacted handling applied.</p>
+          <p>Selected roles, responsibilities, and outcomes.</p>
         </div>
       </div>
       <div class="cards-2">
@@ -101,7 +101,7 @@ function renderCaseStudies(intro, caseStudies) {
         <div>
           <div class="section-kicker">Case studies</div>
           <h2>${escapeHtml(intro?.title || "Selected product work")}</h2>
-          <p>${escapeHtml(intro?.content || "Evidence-backed case studies generated from the private app.")}</p>
+          <p>${escapeHtml(intro?.content || "Selected case studies from product leadership work.")}</p>
         </div>
       </div>
       <div class="cards-2">
