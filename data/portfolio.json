@@ -1,11 +1,26 @@
 {
-  "generatedAt": "2026-06-11T03:15:13.518Z",
+  "generatedAt": "2026-06-11T03:15:28.166Z",
   "profile": {
     "name": "Alister R Wood",
-    "headline": "Product leadership portfolio",
-    "summary": "Evidence-backed product leadership, case studies, and public proof points exported from the private career platform."
+    "headline": "Evidence-backed product leadership",
+    "summary": "A concise public profile built from verified career evidence, redacted where required."
   },
-  "sections": [],
+  "sections": [
+    {
+      "id": "fd7ccf50-8f5d-42dc-b2f2-5cd449fd1bd0",
+      "section": "Home",
+      "title": "Evidence-backed product leadership",
+      "content": "A concise public profile built from verified career evidence, redacted where required.",
+      "publicStatus": "redacted"
+    },
+    {
+      "id": "9caeb937-a0d0-4d5d-8d05-bbf71994fd11",
+      "section": "Case Studies",
+      "title": "Product leadership case study",
+      "content": "Problem: To be defined Context: To be defined Constraints: Sensitive details redacted. Options Considered: To be expanded through the question engine. Decision: To be defined Execution: To be expanded. Results: To be defined Evidence: Add evidence links Skills Demonstrated: Add skills Reflection: To be completed.",
+      "publicStatus": "redacted"
+    }
+  ],
   "roles": [],
   "caseStudies": [],
   "gallery": [],
