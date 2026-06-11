@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-06-11T04:04:42.649Z",
+  "generatedAt": "2026-06-11T04:05:53.749Z",
   "profile": {
     "name": "Alister R Wood",
     "headline": "Evidence-backed product leadership",
-    "summary": "A concise public profile built from verified career evidence, redacted where required."
+    "summary": "A concise public profile built from verified career evidence, with confidential details omitted."
   },
   "sections": [
     {
       "id": "fd7ccf50-8f5d-42dc-b2f2-5cd449fd1bd0",
       "section": "Home",
       "title": "Evidence-backed product leadership",
-      "content": "A concise public profile built from verified career evidence, redacted where required.",
-      "publicStatus": "redacted"
+      "content": "A concise public profile built from verified career evidence, with confidential details omitted.",
+      "publicStatus": "public"
     },
     {
       "id": "9caeb937-a0d0-4d5d-8d05-bbf71994fd11",
       "section": "Case Studies",
       "title": "Product leadership case study",
-      "content": "Problem: To be defined Context: To be defined Constraints: Sensitive details redacted. Options Considered: To be expanded through the question engine. Decision: To be defined Execution: To be expanded. Results: To be defined Evidence: Add evidence links Skills Demonstrated: Add skills Reflection: To be completed.",
-      "publicStatus": "redacted"
+      "content": "Problem: To be defined. Context: To be defined. Constraints: Confidential details omitted. Options Considered: To be expanded. Decision: To be defined. Execution: To be expanded. Results: To be defined. Evidence: Public references to be added. Skills Demonstrated: To be added. Reflection: To be added.",
+      "publicStatus": "public"
     }
   ],
   "roles": [],
